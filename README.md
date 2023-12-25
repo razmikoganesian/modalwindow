@@ -10,3 +10,4 @@
 4. Close them with the Escape button.
 5. Close them by clicking on overlay.
 6. Try to guess which book was used.
+7. Enjoy ☺️
